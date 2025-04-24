@@ -11,8 +11,10 @@ function App() {
   return (<>
     <div className="header">
       <div className="container">
-        <h1>Planet Cluedo</h1>
-        <h2>Who is killing mother earth?</h2>
+        <h1>1 in 200 Billion</h1>
+        {/* <h2>Among Two Billion Stars, We Found Paradise.
+          Then We Set It On Fire</h2> */}
+        <h2>One Paradise among 200 Billion, Then we set it on Fire </h2>
       </div>      
     </div>
     <div className="container main">
